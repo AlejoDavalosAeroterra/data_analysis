@@ -1,0 +1,10 @@
+.gitattributes
+.gitignore
+LICENSE
+setup.py
+gis/__init__.py
+gis/prueba.py
+gis.egg-info/PKG-INFO
+gis.egg-info/SOURCES.txt
+gis.egg-info/dependency_links.txt
+gis.egg-info/top_level.txt
